@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace MyLevel
 
-//Пока не используется. FPS основной player
+//Пока не используется. Будет проверка на состояние объекта, если мертвый, играем анимацию.
 
 {
     public abstract class IsAlive : MonoBehaviour

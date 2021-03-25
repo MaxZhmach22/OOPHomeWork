@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.PlayerLoop;
 
-//Пока не используется. FPS основной player
+//Пока не используется. FPS основной player, контроллер TODO
 
 namespace MyLevel
 {

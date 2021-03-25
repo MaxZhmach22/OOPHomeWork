@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.My level.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\Users\maxzh\Desktop\GeekBrains\C#\Unity\OOP Home work\Home work 01 My Level\My level\.idea\.idea.My level\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
